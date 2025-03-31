@@ -4,7 +4,9 @@
    I enjoy building scalable applications and optimizing performance.
 
 💡 Tech Stack: Java, Spring Boot, ReactJS, SQL, Docker, Jenkins, GitHub, ELK, JMeter.
+
 🎯 Passionate about problem-solving, backend development, and cloud computing.
+
 📌 Always eager to learn, innovate, and contribute to open-source projects.
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/fe784f49-1bbc-4c5e-ad54-decd7d38aa89)
