@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b3b52dcf-fa05-457c-b0bf-e597ce7a5df1)
+![ChatGPT Image Mar 31, 2025, 09_50_52 PM](https://github.com/user-attachments/assets/a6542e6a-14f4-40d2-bd4e-a85a43c3ca6f)
 
 - 👋 Hi, I’m Piyush Jaiswal
 - 👀 I’m interested in ...
