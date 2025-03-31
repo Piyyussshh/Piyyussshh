@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ac1fff6-2d02-4996-b42b-ce9661381ec3)
+![image](https://github.com/user-attachments/assets/b3b52dcf-fa05-457c-b0bf-e597ce7a5df1)
 
 - 👋 Hi, I’m Piyush Jaiswal
 - 👀 I’m interested in ...
@@ -6,7 +6,3 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Piyyussshh/Piyyussshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
